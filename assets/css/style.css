@@ -424,7 +424,7 @@ Navbar Area CSS
 =================================================*/
 .sparsity-responsive-nav {
   display: none;
-  background-color: #ffffff;
+  background-color: linear-gradient(to left, #c13584, #ec0fcf #ffffff);
 }
 
 .navbar-brand {
